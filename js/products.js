@@ -199,8 +199,6 @@ function addProductsToTheMainPage() {
           #buy-product-area {
             grid-area: btn;
             margin: auto;
-            position: relative;
-            top: -100px;
           }
           
           #buy-product-area button {
