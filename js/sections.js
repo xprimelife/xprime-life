@@ -25,12 +25,12 @@ function addButtonsToButtonsContainer() {
         
             @font-face {
               font-family: "xprime";
-              src: url(../assets/fonts/Cinzel_Decorative/CinzelDecorative-Black.ttf);
+              src: url(./assets/fonts/Cinzel_Decorative/CinzelDecorative-Black.ttf);
             }
         
             @font-face {
               font-family: "xprime-2";
-              src: url(../assets/fonts/EB_Garamond/EBGaramond-VariableFont_wght.ttf);
+              src: url(./assets/fonts/EB_Garamond/EBGaramond-VariableFont_wght.ttf);
             }
         
             html {
