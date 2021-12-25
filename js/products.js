@@ -55,7 +55,6 @@ function addProductsToTheMainPage() {
           }
           
           body {
-            height: 92vh;
             font-family: Arial, Helvetica, sans-serif;
             background-color: #240029;
             color: #f2f2f2;
@@ -268,8 +267,8 @@ function addProductsToTheMainPage() {
               padding: 10px;
               grid-template-areas: 
               "img"
+              "btn"
               "pro-det"
-              "btn";
             }
           
             #product-image {
