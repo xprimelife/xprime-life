@@ -55,6 +55,7 @@ function addProductsToTheMainPage() {
           }
           
           body {
+            height: 92vh;
             font-family: Arial, Helvetica, sans-serif;
             background-color: #240029;
             color: #f2f2f2;
