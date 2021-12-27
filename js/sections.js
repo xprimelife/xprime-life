@@ -392,7 +392,7 @@ function addButtonsToButtonsContainer() {
             <section id="products">
               <h2 id="products-anchor">${sections[i].name}</h2>
               <!-- <div id="buttons-container">
-                        <a href="../index.html">
+                        <a href="./index.html">
                           <button>Home</button>
                         </a>
                       </div> -->
