@@ -380,7 +380,7 @@ function addButtonsToButtonsContainer() {
                 <div class="line3"></div>
               </div>
               <ul class="nav-list">
-                <li><a href="../index.html">Início</a></li>
+                <li><a href="./index.html">Início</a></li>
                 <li><a href="#products">Produtos</a></li>
                 <li>
                   <a href="mailto:xprimediet@gmail.com" target="_blank">Contato</a>
