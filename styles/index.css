@@ -498,14 +498,6 @@ nav {
   #most-sold img {
     width: 170px;
     height: 170px;
-    object-fit: fill;
-  }
-
-  .border-animation {
-    --angle: 0deg;
-    border: none;
-    border-image: none;
-    animation: none;
   }
 
   #products {
