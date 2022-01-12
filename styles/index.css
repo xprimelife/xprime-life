@@ -371,6 +371,22 @@ nav {
   background-color: #02a718;
 }
 
+footer {
+  text-align:center;
+}
+
+#copy, #copy a{
+  text-decoration: underline;
+  color:#08e315;
+}
+
+#warning {
+  font-size: 10px;
+  margin: 8px;
+  text-transform: capitalize;
+  color:#af0098;
+}
+
 @media (max-width: 1200px) {
   #buttons-container {
     grid-template-columns: auto auto auto auto auto;
