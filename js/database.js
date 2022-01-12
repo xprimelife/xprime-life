@@ -1,3 +1,5 @@
+const email = "xprimelife@gmail.com"
+
 const mostSoldProductsDatabase = [
   {
     name: "Pulseira FITLIFE",
