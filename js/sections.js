@@ -383,7 +383,7 @@ function addButtonsToButtonsContainer() {
                 <li><a href="./index.html">Início</a></li>
                 <li><a href="#products">Produtos</a></li>
                 <li>
-                  <a href="mailto:xprimediet@gmail.com" target="_blank">Contato</a>
+                  <a href="mailto:${email}" target="_blank">Contato</a>
                 </li>
               </ul>
             </nav>
