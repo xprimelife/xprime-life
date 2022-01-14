@@ -14,7 +14,6 @@ try {
 
     const buyButton = document.querySelector('#buy-button')
     buyButton.href = element.link
-    buyButton.target = '_blank'
   }
 } catch {
   console.log('unknown error')

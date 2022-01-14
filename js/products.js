@@ -385,7 +385,6 @@ function addProductsToTheMainPage() {
             
               const buyButton = document.querySelector('#buy-button')
               buyButton.href = element.link
-              buyButton.target = '_blank'
             }
             changeDataFromPage(productsDatabase[${i}])
           } catch {
@@ -805,7 +804,6 @@ function addProductsToTheMostSoldSection() {
             
               const buyButton = document.querySelector('#buy-button')
               buyButton.href = element.link
-              buyButton.target = '_blank'
             }
             changeDataFromPage(mostSoldProductsDatabase[${i}])
           } catch {
