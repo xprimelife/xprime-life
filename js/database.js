@@ -184,23 +184,6 @@ const productsDatabase = [{
     <a style="color:blue" href="https://go.hotmart.com/M63714855R" target="_blank">ver mais...</a>`
   },
   {
-    name: "Bumbum fit 22",
-    img: "bumbumfit22.jpg",
-    link: "https://go.hotmart.com/K63715343H",
-
-    description: `BUMBUM EMPINADO
-    Em 6 Semanas com 22 aulas de 22 minutos para fazer onde e quando quiser !
-    Se você já cansou de procurar formas para ter aquele tão sonhado bumbum empinado para não ficar com vergonha na hora de vestir seu biquini, finalmente esse problema vai acabar.
-    <br><br>
-    Você Gostaria de Ter o Famoso Bumbum Brasileiro ?
-    A mulher brasileira é famosa em todo o mundo pelo seu bumbum!
-    O Programa Bumbum FIT22 foi criado da cabeça aos pés para transformar o seu bumbum e fazer os homens girarem a cabeça quando você passa.
-    <br><br>
-    Com Renata Guido (Bacharel e Licenciada em Educação Física pela Escola Superior de Educação Física - ESEF Jundiaí SP). Com grande experiência em treinamento funcional voltado ao emagrecimento.
-    <br>
-    E Giovana Guido (Atleta Fitness Bikini e Campeã Paulista OVERALL 2014).`
-  },
-  {
     name: "Curso Escova Progressiva Em Casa",
     img: "curso-de-progressiva.jpg",
     link: "https://go.hotmart.com/R63715208T?dp=1",
@@ -604,23 +587,6 @@ const sections = [{
       <a style="color:blue" href="https://go.hotmart.com/M63714855R" target="_blank">ver mais...</a>`
       },
       {
-        name: "Bumbum fit 22",
-        img: "bumbumfit22.jpg",
-        link: "https://go.hotmart.com/K63715343H",
-
-        description: `BUMBUM EMPINADO
-        Em 6 Semanas com 22 aulas de 22 minutos para fazer onde e quando quiser !
-        Se você já cansou de procurar formas para ter aquele tão sonhado bumbum empinado para não ficar com vergonha na hora de vestir seu biquini, finalmente esse problema vai acabar.
-        <br><br>
-        Você Gostaria de Ter o Famoso Bumbum Brasileiro ?
-        A mulher brasileira é famosa em todo o mundo pelo seu bumbum!
-        O Programa Bumbum FIT22 foi criado da cabeça aos pés para transformar o seu bumbum e fazer os homens girarem a cabeça quando você passa.
-        <br><br>
-        Com Renata Guido (Bacharel e Licenciada em Educação Física pela Escola Superior de Educação Física - ESEF Jundiaí SP). Com grande experiência em treinamento funcional voltado ao emagrecimento.
-        <br>
-        E Giovana Guido (Atleta Fitness Bikini e Campeã Paulista OVERALL 2014).`
-      },
-      {
         name: "Curso Escova Progressiva Em Casa",
         img: "curso-de-progressiva.jpg",
         link: "https://go.hotmart.com/R63715208T?dp=1",
@@ -766,23 +732,6 @@ const sections = [{
     - Alicate Staleks <br>
     - Esmaltações mais comuns <br>
     <a style="color:blue" href="https://go.hotmart.com/M63714855R" target="_blank">ver mais...</a>`
-      },
-      {
-        name: "Bumbum fit 22",
-        img: "bumbumfit22.jpg",
-        link: "https://go.hotmart.com/K63715343H",
-
-        description: `BUMBUM EMPINADO
-    Em 6 Semanas com 22 aulas de 22 minutos para fazer onde e quando quiser !
-    Se você já cansou de procurar formas para ter aquele tão sonhado bumbum empinado para não ficar com vergonha na hora de vestir seu biquini, finalmente esse problema vai acabar.
-    <br><br>
-    Você Gostaria de Ter o Famoso Bumbum Brasileiro ?
-    A mulher brasileira é famosa em todo o mundo pelo seu bumbum!
-    O Programa Bumbum FIT22 foi criado da cabeça aos pés para transformar o seu bumbum e fazer os homens girarem a cabeça quando você passa.
-    <br><br>
-    Com Renata Guido (Bacharel e Licenciada em Educação Física pela Escola Superior de Educação Física - ESEF Jundiaí SP). Com grande experiência em treinamento funcional voltado ao emagrecimento.
-    <br>
-    E Giovana Guido (Atleta Fitness Bikini e Campeã Paulista OVERALL 2014).`
       },
       {
         name: "Curso Escova Progressiva Em Casa",
