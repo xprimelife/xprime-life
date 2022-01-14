@@ -201,7 +201,7 @@ const productsDatabase = [{
     E Giovana Guido (Atleta Fitness Bikini e Campeã Paulista OVERALL 2014).`
   },
   {
-    name: "Curso Escova Progressiva...",
+    name: "Curso Escova Progressiva Em Casa",
     img: "curso-de-progressiva.jpg",
     link: "https://go.hotmart.com/R63715208T?dp=1",
 
@@ -621,7 +621,7 @@ const sections = [{
         E Giovana Guido (Atleta Fitness Bikini e Campeã Paulista OVERALL 2014).`
       },
       {
-        name: "Curso Escova Progressiva...",
+        name: "Curso Escova Progressiva Em Casa",
         img: "curso-de-progressiva.jpg",
         link: "https://go.hotmart.com/R63715208T?dp=1",
     
@@ -785,7 +785,7 @@ const sections = [{
     E Giovana Guido (Atleta Fitness Bikini e Campeã Paulista OVERALL 2014).`
       },
       {
-        name: "Curso Escova Progressiva...",
+        name: "Curso Escova Progressiva Em Casa",
         img: "curso-de-progressiva.jpg",
         link: "https://go.hotmart.com/R63715208T?dp=1",
     

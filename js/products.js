@@ -9,9 +9,8 @@ function addProductsToTheMainPage() {
 
     const link = document.createElement('div')
     link.addEventListener('click', () => {
-      const opened = window.open("")
       try {
-        opened.document.write(
+        open().document.write(
           `<!DOCTYPE html>
           <html lang="en">
           
@@ -407,13 +406,8 @@ function addProductsToTheMainPage() {
     const productImage = document.createElement('img')
     productImage.src = `./assets/${productsDatabase[i].img}`
 
-    const button = document.createElement('div')
-    button.classList.add('button')
-    button.innerHTML = "Ver produto"
-
     link.appendChild(subText)
     link.appendChild(productImage)
-    link.appendChild(button)
     product.appendChild(link)
     productsContainer.appendChild(product)
   }
