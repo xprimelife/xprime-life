@@ -365,6 +365,26 @@ strong {
 
 footer {
   text-align: center;
+  font-weight: bold;
+}
+
+#social-medias {
+  width: 100%;
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+
+#social-medias img {
+  width: 50px;
+  border: solid 2px #f2f2f2;
+  border-radius: 10px;
+  box-shadow: 0 0 5px black;
+  transition: ease 300ms;
+  margin: 0 20px 0 20px;
+}
+
+#social-medias img:hover {
+  border: solid 2px #08e315;
 }
 
 #copy,
