@@ -11,7 +11,7 @@ const mostSoldProductsDatabase = [
   },
   {
     name: "Maquiagem Perfeita 2.0 pro",
-    img: "maquiagem-perfeita.gif",
+    img: "maquiagem-pro.jpg",
     link: "https://go.hotmart.com/H63710049R?dp=1",
 
     description: `O Curso de Automaquiagem mais completo do Brasil!
@@ -260,7 +260,7 @@ const productsDatabase = [{
   },
   {
     name: "Maquiagem Perfeita 2.0 pro",
-    img: "maquiagem-perfeita.gif",
+    img: "maquiagem-pro.jpg",
     link: "https://go.hotmart.com/H63710049R?dp=1",
 
     description: `O Curso de Automaquiagem mais completo do Brasil!
@@ -666,7 +666,7 @@ const sections = [{
       },
       {
         name: "Maquiagem Perfeita 2.0 pro",
-        img: "maquiagem-perfeita.gif",
+        img: "maquiagem-pro.jpg",
         link: "https://go.hotmart.com/H63710049R?dp=1",
 
         description: `O Curso de Automaquiagem mais completo do Brasil!
@@ -830,7 +830,7 @@ const sections = [{
       },
       {
         name: "Maquiagem Perfeita 2.0 pro",
-        img: "maquiagem-perfeita.gif",
+        img: "maquiagem-pro.jpg",
         link: "https://go.hotmart.com/H63710049R?dp=1",
 
         description: `O Curso de Automaquiagem mais completo do Brasil!
