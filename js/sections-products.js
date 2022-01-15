@@ -195,7 +195,7 @@ function handleGenerateSectionProductPage(is, ip) {
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
             color: #f2f2f2;
             padding: 10px 0px;
-            border: none;
+            border: solid 2px rgba(0, 0, 0, 0);
             border-radius: 5px;
             font-size: 32px;
             font-weight: bold;
@@ -205,11 +205,12 @@ function handleGenerateSectionProductPage(is, ip) {
             width: 400px;
             cursor: pointer;
           }
-      
-      
+          
+          
           #buy-product-area button:hover {
             background-color: #02a718;
             box-shadow: none;
+            border: solid 2px #f2f2f2;
           }
       
           /*
