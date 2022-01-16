@@ -106,14 +106,6 @@ const productsDatabase = [{
     Além disso, se você está procurando um produto sério, capaz de entregar um emagrecimento orgânico e completamente saudável, diferente da maior parte das dietas que são apresentadas na internet, saiba que a fórmula das cápsulas é baseada em ingredientes naturais, além de ter sido criada pelas mãos de especialistas da área.`
   },
   {
-    name: "Guia Secar Rápido",
-    img: "guia-secar-rapido.png",
-    link: "https://go.hotmart.com/F63715321G?ap=d615",
-
-    description: `Seja bem-vindo(a) ao Guia Secar Rápido! O Guia Secar Rápido é um guia nutricional de reeducação alimentar desenvolvido por profissionais para pessoas que precisam emagrecer de forma rápida e saudável, associado a um cronograma de 28 dias para atingir de vez o peso ideal.
-    `
-  },
-  {
     name: "Nuratrim",
     img: "nuratrim.png",
     link: "https://app.monetizze.com.br/r/AKW18201961?u=c&pl=KA91797",
@@ -380,14 +372,6 @@ const sections = [{
       Visando ajudar o maior número de pessoas mundo afora, <strong>criamos um método de reeducação alimentar, capaz de te ajudar a perder de 5 a 10kg em 30 dias</strong>, isso mesmo que você leu, é uma reeducação alimentar, assim você não só perderá o peso desejado como vai ensinar o seu cérebro e o seu corpo como se alimentar corretamente para ter saúde por mais tempo, e não se preocupe, nosso programa é acessível à maioria das pessoas, e pense nisso como um investimento, pois ele vai te ajudar a ter saúde.`
       },
       {
-        name: "Guia Secar Rápido",
-        img: "guia-secar-rapido.png",
-        link: "https://go.hotmart.com/F63715321G?ap=d615",
-
-        description: `Seja bem-vindo(a) ao Guia Secar Rápido! O Guia Secar Rápido é um guia nutricional de reeducação alimentar desenvolvido por profissionais para pessoas que precisam emagrecer de forma rápida e saudável, associado a um cronograma de 28 dias para atingir de vez o peso ideal.
-      `
-      },
-      {
         name: "Desafio 19 dias",
         img: "desafio-19-dias.png",
         link: "https://go.hotmart.com/G63710898H?dp=1",
@@ -491,14 +475,6 @@ const sections = [{
 
         description: `É fato que hoje já temos cada vez mais pessoal acima do peso no mundo, e a tendência é que esse número aumente cada vez mais, tendo em vista que os alimentos estão ficando cada vez mais industrializados e as academias aumentando seu preço gradativamente, e <strong>nós sabemos que nem todo mundo pode gastar horrores de dinheiro com nutricionistas, personal trainer e academias caras, e é por isso que criamos um método de emagrecimento 100% testado e comprovado pelas nossas mais de 18mil clientes ao redor do país</strong>, e calma, não se preocupe pois não é aquela dieta maluca e nem restritiva, muito menos aqueles remédios que podem até te emagrecer, mas se você parar de tomar, volta a ter um peso maior do que o anterior. <br><br>
       Visando ajudar o maior número de pessoas mundo afora, <strong>criamos um método de reeducação alimentar, capaz de te ajudar a perder de 5 a 10kg em 30 dias</strong>, isso mesmo que você leu, é uma reeducação alimentar, assim você não só perderá o peso desejado como vai ensinar o seu cérebro e o seu corpo como se alimentar corretamente para ter saúde por mais tempo, e não se preocupe, nosso programa é acessível à maioria das pessoas, e pense nisso como um investimento, pois ele vai te ajudar a ter saúde.`
-      },
-      {
-        name: "Guia Secar Rápido",
-        img: "guia-secar-rapido.png",
-        link: "https://go.hotmart.com/F63715321G?ap=d615",
-
-        description: `Seja bem-vindo(a) ao Guia Secar Rápido! O Guia Secar Rápido é um guia nutricional de reeducação alimentar desenvolvido por profissionais para pessoas que precisam emagrecer de forma rápida e saudável, associado a um cronograma de 28 dias para atingir de vez o peso ideal.
-      `
       },
       {
         name: "Desafio 19 dias",
