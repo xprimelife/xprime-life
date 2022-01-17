@@ -248,27 +248,30 @@ function addButtonsToButtonsContainer() {
     
           .product-container {
             width: 165px;
-            height: 220px;
+            height: 180px;
             background-color: #f2f2f2;
-            border-radius: 5px;
-            box-shadow: 0 0 3px #000000dd;
+            border-radius: 10px;
+            box-shadow: 0 0 7px #000000;
             overflow: hidden;
             position: relative;
           }
     
           .sub-text {
+            width: 100%;
+            height: 100%;
             padding: 3px 0 3px 0;
-            background-color: #af0098;
-            font-size: 16px;
-            letter-spacing: 1px;
+            background-color: #240029;
+            font-size: 14px;
+            font-weight: normal;
             text-align: center;
             text-transform: capitalize;
             text-align: center;
           }
     
           .product-container img {
-            width: 165px;
-            height: 165px;
+            width: 100%;
+            height: 100%;
+            object-fit: fill;
           }
         }
     
