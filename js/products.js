@@ -42,15 +42,17 @@ function addProductsToTheMainPage() {
           }
           
           ::-webkit-scrollbar {
-            width: 4px;
+            width: 5px;
           }
           
           ::-webkit-scrollbar-track {
-            background-color: #642175;
+            background-color: #f2f2f2;
+            border-radius: 5px;
           }
           
           ::-webkit-scrollbar-thumb {
             background-color: #240029;
+            border-radius: 5px;
           }
           
           body {

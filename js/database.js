@@ -82,7 +82,35 @@ const mostSoldProductsDatabase = [
 
 
 
-const productsDatabase = [{
+const productsDatabase = [
+  {
+    name: "Cinta Sweat Belt",
+    img: "cinta-sweat-belt.jpg",
+    link: "https://app.monetizze.com.br/r/AUT18742601/?u=QX21179",
+    description: `CINTA ABDOMINAL SWEAT BELT (UNISSEX ) A cinta de neoprene SWEAT BELT comprime e apoia a sua parteinferior das costas e os músculos abdominais, mantendo um calor terapêutico. Como resultado, você perde medidas, e também alivia os músculos doloridos. O ajustador da cintura é feito de 100% de neoprene sem látex térmica, com um nylonvoltado para o lado exterior e um design com contornos parao conforto.
+    <br>
+    Esta cinta emagrecedora é indicada para uso diário principalmente durante os treinos ou qualquer atividade física. Seu efeito de sauna age diretamente na região abdominal diminuindo a cintura, eliminando a retenção de líquidos e queimando gordura. Esta cinta é fabricada com tecido de neoprene de alta tecnologia que ajuda a aumentar a temperatura na região onde é utilizada o a torna ainda mais eficaz, ajudando seu corpo a transpirar e diminuir a retenção de líquidos, e após certo tempo de atividades físicas, também a queima de gordura`
+  },
+  {
+    name: "Pulseira FITLIFE",
+    img: "pulseira-fitlife.jpg",
+    link: "https://app.monetizze.com.br/r/ARD18742548?u=c&pl=BK59140",
+    description: `Pulseira com multifuncionalidades. 
+    <br>
+    <strong>Relógio que mede pressão e batimentos cardíacos em poucos segundos! Pulseira conta passos, calorias, distância percorrida e tempo!</strong>`
+  },
+  {
+    name: "Eliminando as estrias",
+    img: "eliminando-as-estrias.png",
+    link: "https://sun.eduzz.com/358370?a=25359202",
+
+    description: `Esse e um ótimo produto para as mulheres que sofrem com Estrias <br>
+    um produto de fácil aceitação e muito procurando por homens e mulheres, <br>
+    e principalmente por mulheres grávidas, <br>
+    mamães e Pessoas em fazer de Emagrecimento <br>   
+    `
+  },
+  {
     name: "Receitas para secar",
     img: "receitas-para-secar.png",
     link: "https://go.hotmart.com/L61479044A?ap=489e",
@@ -111,33 +139,6 @@ const productsDatabase = [{
     link: "https://app.monetizze.com.br/r/AKW18201961?u=c&pl=KA91797",
 
     description: `Nuratrim é um suplemento natural com ação termogênica, sendo assim, ele acelera o metabolismo e auxilia na perda de gordura. Sua ação termogênica concentra-se na queima contínua de gordura para proporcionar a todos que o utilizam, uma perda de peso rápida e segura, através de seus ingredientes que melhoram a perda de peso.`
-  },
-  {
-    name: "Cinta Sweat Belt",
-    img: "cinta-sweat-belt.jpg",
-    link: "https://app.monetizze.com.br/r/AUT18742601/?u=QX21179",
-    description: `CINTA ABDOMINAL SWEAT BELT (UNISSEX ) A cinta de neoprene SWEAT BELT comprime e apoia a sua parteinferior das costas e os músculos abdominais, mantendo um calor terapêutico. Como resultado, você perde medidas, e também alivia os músculos doloridos. O ajustador da cintura é feito de 100% de neoprene sem látex térmica, com um nylonvoltado para o lado exterior e um design com contornos parao conforto.
-    <br>
-    Esta cinta emagrecedora é indicada para uso diário principalmente durante os treinos ou qualquer atividade física. Seu efeito de sauna age diretamente na região abdominal diminuindo a cintura, eliminando a retenção de líquidos e queimando gordura. Esta cinta é fabricada com tecido de neoprene de alta tecnologia que ajuda a aumentar a temperatura na região onde é utilizada o a torna ainda mais eficaz, ajudando seu corpo a transpirar e diminuir a retenção de líquidos, e após certo tempo de atividades físicas, também a queima de gordura`
-  },
-  {
-    name: "Pulseira FITLIFE",
-    img: "pulseira-fitlife.jpg",
-    link: "https://app.monetizze.com.br/r/ARD18742548?u=c&pl=BK59140",
-    description: `Pulseira com multifuncionalidades. 
-    <br>
-    <strong>Relógio que mede pressão e batimentos cardíacos em poucos segundos! Pulseira conta passos, calorias, distância percorrida e tempo!</strong>`
-  },
-  {
-    name: "Eliminando as estrias",
-    img: "eliminando-as-estrias.png",
-    link: "https://sun.eduzz.com/358370?a=25359202",
-
-    description: `Esse e um ótimo produto para as mulheres que sofrem com Estrias <br>
-    um produto de fácil aceitação e muito procurando por homens e mulheres, <br>
-    e principalmente por mulheres grávidas, <br>
-    mamães e Pessoas em fazer de Emagrecimento <br>   
-    `
   },
   {
     name: "Cardio Fitness de Treinamento",
