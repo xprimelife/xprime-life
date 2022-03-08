@@ -218,23 +218,6 @@ const productsDatabase = [
     description: `O Curso Escola Designer de Unhas mostra todo o passo a passo dos tipos de alongamentos em Unhas, como o Alongamento em Fibra, em Gel Moldado ou Tips. Além de como fazer 4 tipos de lixamentos (Stiletto, Amendoado...) e Diversos Tipos de Técnicas em Decoração Fixa ( Babyboomer, Encapsuladas com Flor Seca, Tipos de Francesas, Chuva de Glitter).`
   },
   {
-    name: "Fitness Play",
-    img: "fitness-play.jpg",
-    link: "https://go.hotmart.com/O63710588W",
-
-    description: `A Fitness Play é a maior e mais completa Plataforma de Programas de Treinamento para Mulheres que buscam emagrecer, melhorar a saúde, condição física, estética, reduzir os níveis de estresse, se alimentar melhor e ter um corpo lindo através de um estilo de vida mais ativo e saudável. 
-    <br><br>
-    Na Fitness Play os resultados são seguros, verdadeiros, consistentes e ajudam a evitar que as pessoas tomem remédios, tenha efeitos indesejados como o “efeito sanfona” ou busquem fórmulas mágicas para atingir seus objetivos.
-    <br><br>
-    Nossos profissionais, incrivelmente capacitados, que atuam no mercado fitness há anos, através da metodologia de trabalho criado pela Fitness Play, já conseguiram transformar o corpo e a vida de milhares de pessoas. 
-    <br><br>
-    Venha! Porque aqui na Fitness Play, você consegue! 
-    <br><br>
-    Estamos ansiosos te esperando e pronto para te acolher. 
-    <br><br>
-    Acesse agora https://fitnessplay.com.br/ e de uma Play de uma vez por todas em sua vida.`
-  },
-  {
     name: "Maquiagem Perfeita 2.0 pro",
     img: "maquiagem-pro.jpg",
     link: "https://go.hotmart.com/H63710049R?dp=1",
@@ -591,23 +574,6 @@ const sections = [{
         description: `O Curso Escola Designer de Unhas mostra todo o passo a passo dos tipos de alongamentos em Unhas, como o Alongamento em Fibra, em Gel Moldado ou Tips. Além de como fazer 4 tipos de lixamentos (Stiletto, Amendoado...) e Diversos Tipos de Técnicas em Decoração Fixa ( Babyboomer, Encapsuladas com Flor Seca, Tipos de Francesas, Chuva de Glitter).`
       },
       {
-        name: "Fitness Play",
-        img: "fitness-play.jpg",
-        link: "https://go.hotmart.com/O63710588W",
-    
-        description: `A Fitness Play é a maior e mais completa Plataforma de Programas de Treinamento para Mulheres que buscam emagrecer, melhorar a saúde, condição física, estética, reduzir os níveis de estresse, se alimentar melhor e ter um corpo lindo através de um estilo de vida mais ativo e saudável. 
-        <br><br>
-        Na Fitness Play os resultados são seguros, verdadeiros, consistentes e ajudam a evitar que as pessoas tomem remédios, tenha efeitos indesejados como o “efeito sanfona” ou busquem fórmulas mágicas para atingir seus objetivos.
-        <br><br>
-        Nossos profissionais, incrivelmente capacitados, que atuam no mercado fitness há anos, através da metodologia de trabalho criado pela Fitness Play, já conseguiram transformar o corpo e a vida de milhares de pessoas. 
-        <br><br>
-        Venha! Porque aqui na Fitness Play, você consegue! 
-        <br><br>
-        Estamos ansiosos te esperando e pronto para te acolher. 
-        <br><br>
-        Acesse agora https://fitnessplay.com.br/ e de uma Play de uma vez por todas em sua vida.`
-      },
-      {
         name: "Maquiagem Perfeita 2.0 pro",
         img: "maquiagem-pro.jpg",
         link: "https://go.hotmart.com/H63710049R?dp=1",
@@ -736,23 +702,6 @@ const sections = [{
         link: "https://go.hotmart.com/E63714183C?dp=1",
     
         description: `O Curso Escola Designer de Unhas mostra todo o passo a passo dos tipos de alongamentos em Unhas, como o Alongamento em Fibra, em Gel Moldado ou Tips. Além de como fazer 4 tipos de lixamentos (Stiletto, Amendoado...) e Diversos Tipos de Técnicas em Decoração Fixa ( Babyboomer, Encapsuladas com Flor Seca, Tipos de Francesas, Chuva de Glitter).`
-      },
-      {
-        name: "Fitness Play",
-        img: "fitness-play.jpg",
-        link: "https://go.hotmart.com/O63710588W",
-    
-        description: `A Fitness Play é a maior e mais completa Plataforma de Programas de Treinamento para Mulheres que buscam emagrecer, melhorar a saúde, condição física, estética, reduzir os níveis de estresse, se alimentar melhor e ter um corpo lindo através de um estilo de vida mais ativo e saudável. 
-        <br><br>
-        Na Fitness Play os resultados são seguros, verdadeiros, consistentes e ajudam a evitar que as pessoas tomem remédios, tenha efeitos indesejados como o “efeito sanfona” ou busquem fórmulas mágicas para atingir seus objetivos.
-        <br><br>
-        Nossos profissionais, incrivelmente capacitados, que atuam no mercado fitness há anos, através da metodologia de trabalho criado pela Fitness Play, já conseguiram transformar o corpo e a vida de milhares de pessoas. 
-        <br><br>
-        Venha! Porque aqui na Fitness Play, você consegue! 
-        <br><br>
-        Estamos ansiosos te esperando e pronto para te acolher. 
-        <br><br>
-        Acesse agora https://fitnessplay.com.br/ e de uma Play de uma vez por todas em sua vida.`
       },
       {
         name: "Maquiagem Perfeita 2.0 pro",
